@@ -184,11 +184,11 @@ This analysis is based on **public, scraped catalog/inventory data** — not tra
 
 ## 👤 Author
 
-**Mohammad Ahmed** — Data Scientist
+**MOHD AHMED** — Data Scientist
 `SQL` · `Data Analytics` · `Business Intelligence`
 
 - LinkedIn: https://www.linkedin.com/in/mohammad-ahmed-094859245/
-- GitHub: *[ add your link ]*
+
 - Portfolio: https://mohdahmed.netlify.app/
 
 ---
